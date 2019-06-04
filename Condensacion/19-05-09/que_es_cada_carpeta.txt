@@ -1,0 +1,17 @@
+Carpeta 01
+	Trampa 1.6x1.6
+	Threshold de 26~
+Carpeta 02
+	Trampa 1.6X1.6 pero bajando
+	en potencia
+Carpeta 03
+	Trampa 1.6X1.6 hasta 250 mW
+	Quisimos ver el lasing
+Carpeta 04
+	Trampa 1.3x1.3
+	Threshold de 19~
+Carpeta 05
+	Trampa 1.3x1.3
+	Bajando
+Carpeta 06
+	Fp en la trampa de 1,6x1,6
